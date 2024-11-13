@@ -1,0 +1,7 @@
+C:\DotNet_Training\C#\Assessments\Assessment2\Assessment2\bin\Debug\Assessment2.exe.config
+C:\DotNet_Training\C#\Assessments\Assessment2\Assessment2\bin\Debug\Assessment2.exe
+C:\DotNet_Training\C#\Assessments\Assessment2\Assessment2\bin\Debug\Assessment2.pdb
+C:\DotNet_Training\C#\Assessments\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.AssemblyReference.cache
+C:\DotNet_Training\C#\Assessments\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\C#\Assessments\Assessment2\Assessment2\obj\Debug\Assessment2.exe
+C:\DotNet_Training\C#\Assessments\Assessment2\Assessment2\obj\Debug\Assessment2.pdb

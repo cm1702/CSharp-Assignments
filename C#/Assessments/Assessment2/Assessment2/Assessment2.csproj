@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7C0055D5-1966-4216-8290-B42D3CABEC2F}</ProjectGuid>
+    <ProjectGuid>{9E6A48BD-5ECC-4BF0-9ED7-0BEA9386DF84}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Day7_DotNet</RootNamespace>
-    <AssemblyName>Day7_DotNet</AssemblyName>
+    <RootNamespace>Assessment2</RootNamespace>
+    <AssemblyName>Assessment2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Day7_DotNet.abc</StartupObject>
+    <StartupObject>Assessment2.Program3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,8 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="abc.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Program2.cs" />
+    <Compile Include="Program3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
