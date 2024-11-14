@@ -1,0 +1,7 @@
+C:\DotNet_Training\Threading_in_CSharp\Threading_in_CSharp\obj\Debug\Threading_in_CSharp.csproj.AssemblyReference.cache
+C:\DotNet_Training\Threading_in_CSharp\Threading_in_CSharp\obj\Debug\Threading_in_CSharp.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\Threading_in_CSharp\Threading_in_CSharp\bin\Debug\Threading_in_CSharp.exe.config
+C:\DotNet_Training\Threading_in_CSharp\Threading_in_CSharp\bin\Debug\Threading_in_CSharp.exe
+C:\DotNet_Training\Threading_in_CSharp\Threading_in_CSharp\bin\Debug\Threading_in_CSharp.pdb
+C:\DotNet_Training\Threading_in_CSharp\Threading_in_CSharp\obj\Debug\Threading_in_CSharp.exe
+C:\DotNet_Training\Threading_in_CSharp\Threading_in_CSharp\obj\Debug\Threading_in_CSharp.pdb
