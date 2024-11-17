@@ -1,0 +1,2 @@
+C:\DotNet_Training\C#\Assignments\obj\x86\Debug\TravelConcessionApp.csproj.AssemblyReference.cache
+C:\DotNet_Training\C#\Assignments\obj\x86\Debug\TravelConcessionApp.csproj.CoreCompileInputs.cache
