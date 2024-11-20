@@ -1,0 +1,9 @@
+Hello!
+
+This is assessment 3.
+
+Learning .NET
+
+123456789
+
+C# is easy to learn.
