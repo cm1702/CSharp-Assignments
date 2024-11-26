@@ -62,7 +62,6 @@ namespace Assessment3
 
             Console.WriteLine($"\nNo. of Matches: {count}");
             Console.WriteLine($"Total Score: {total}");
-            Console.WriteLine($"Average Score: {av:F2}");
 
             Console.Read();
         }
