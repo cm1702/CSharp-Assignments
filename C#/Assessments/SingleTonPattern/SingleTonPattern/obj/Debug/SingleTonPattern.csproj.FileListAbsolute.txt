@@ -1,7 +1,0 @@
-C:\DotNet_Training\C#\Assessments\SingleTonPattern\SingleTonPattern\bin\Debug\SingleTonPattern.exe.config
-C:\DotNet_Training\C#\Assessments\SingleTonPattern\SingleTonPattern\bin\Debug\SingleTonPattern.exe
-C:\DotNet_Training\C#\Assessments\SingleTonPattern\SingleTonPattern\bin\Debug\SingleTonPattern.pdb
-C:\DotNet_Training\C#\Assessments\SingleTonPattern\SingleTonPattern\obj\Debug\SingleTonPattern.csproj.AssemblyReference.cache
-C:\DotNet_Training\C#\Assessments\SingleTonPattern\SingleTonPattern\obj\Debug\SingleTonPattern.csproj.CoreCompileInputs.cache
-C:\DotNet_Training\C#\Assessments\SingleTonPattern\SingleTonPattern\obj\Debug\SingleTonPattern.exe
-C:\DotNet_Training\C#\Assessments\SingleTonPattern\SingleTonPattern\obj\Debug\SingleTonPattern.pdb

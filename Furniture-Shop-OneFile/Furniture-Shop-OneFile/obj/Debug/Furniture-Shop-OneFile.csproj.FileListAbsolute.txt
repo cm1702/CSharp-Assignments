@@ -1,7 +1,0 @@
-C:\DotNet_Training\Furniture-Shop-OneFile\Furniture-Shop-OneFile\bin\Debug\Furniture-Shop-OneFile.exe.config
-C:\DotNet_Training\Furniture-Shop-OneFile\Furniture-Shop-OneFile\bin\Debug\Furniture-Shop-OneFile.exe
-C:\DotNet_Training\Furniture-Shop-OneFile\Furniture-Shop-OneFile\bin\Debug\Furniture-Shop-OneFile.pdb
-C:\DotNet_Training\Furniture-Shop-OneFile\Furniture-Shop-OneFile\obj\Debug\Furniture-Shop-OneFile.csproj.AssemblyReference.cache
-C:\DotNet_Training\Furniture-Shop-OneFile\Furniture-Shop-OneFile\obj\Debug\Furniture-Shop-OneFile.csproj.CoreCompileInputs.cache
-C:\DotNet_Training\Furniture-Shop-OneFile\Furniture-Shop-OneFile\obj\Debug\Furniture-Shop-OneFile.exe
-C:\DotNet_Training\Furniture-Shop-OneFile\Furniture-Shop-OneFile\obj\Debug\Furniture-Shop-OneFile.pdb
