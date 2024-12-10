@@ -1,7 +1,0 @@
-C:\DotNet_Training\ADO-Example\ADO-Example\bin\Debug\ADO-Example.exe.config
-C:\DotNet_Training\ADO-Example\ADO-Example\bin\Debug\ADO-Example.exe
-C:\DotNet_Training\ADO-Example\ADO-Example\bin\Debug\ADO-Example.pdb
-C:\DotNet_Training\ADO-Example\ADO-Example\obj\Debug\ADO-Example.csproj.AssemblyReference.cache
-C:\DotNet_Training\ADO-Example\ADO-Example\obj\Debug\ADO-Example.csproj.CoreCompileInputs.cache
-C:\DotNet_Training\ADO-Example\ADO-Example\obj\Debug\ADO-Example.exe
-C:\DotNet_Training\ADO-Example\ADO-Example\obj\Debug\ADO-Example.pdb
