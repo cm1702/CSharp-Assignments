@@ -1,0 +1,7 @@
+C:\DotNet_Training\ADO\Assignments\Employee_Application\Employee_Application\bin\Debug\Employee_Application.exe.config
+C:\DotNet_Training\ADO\Assignments\Employee_Application\Employee_Application\bin\Debug\Employee_Application.exe
+C:\DotNet_Training\ADO\Assignments\Employee_Application\Employee_Application\bin\Debug\Employee_Application.pdb
+C:\DotNet_Training\ADO\Assignments\Employee_Application\Employee_Application\obj\Debug\Employee_Application.csproj.AssemblyReference.cache
+C:\DotNet_Training\ADO\Assignments\Employee_Application\Employee_Application\obj\Debug\Employee_Application.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\ADO\Assignments\Employee_Application\Employee_Application\obj\Debug\Employee_Application.exe
+C:\DotNet_Training\ADO\Assignments\Employee_Application\Employee_Application\obj\Debug\Employee_Application.pdb

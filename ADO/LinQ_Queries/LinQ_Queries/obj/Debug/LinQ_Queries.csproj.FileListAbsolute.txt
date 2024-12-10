@@ -1,0 +1,7 @@
+C:\DotNet_Training\ADO\LinQ_Queries\LinQ_Queries\bin\Debug\LinQ_Queries.exe.config
+C:\DotNet_Training\ADO\LinQ_Queries\LinQ_Queries\bin\Debug\LinQ_Queries.exe
+C:\DotNet_Training\ADO\LinQ_Queries\LinQ_Queries\bin\Debug\LinQ_Queries.pdb
+C:\DotNet_Training\ADO\LinQ_Queries\LinQ_Queries\obj\Debug\LinQ_Queries.csproj.AssemblyReference.cache
+C:\DotNet_Training\ADO\LinQ_Queries\LinQ_Queries\obj\Debug\LinQ_Queries.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\ADO\LinQ_Queries\LinQ_Queries\obj\Debug\LinQ_Queries.exe
+C:\DotNet_Training\ADO\LinQ_Queries\LinQ_Queries\obj\Debug\LinQ_Queries.pdb
