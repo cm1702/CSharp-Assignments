@@ -1,0 +1,7 @@
+C:\DotNet_Training\SQL\Assessments\Assessment3\Assessment3ADO\Assessment3ADO\bin\Debug\Assessment3ADO.exe.config
+C:\DotNet_Training\SQL\Assessments\Assessment3\Assessment3ADO\Assessment3ADO\bin\Debug\Assessment3ADO.exe
+C:\DotNet_Training\SQL\Assessments\Assessment3\Assessment3ADO\Assessment3ADO\bin\Debug\Assessment3ADO.pdb
+C:\DotNet_Training\SQL\Assessments\Assessment3\Assessment3ADO\Assessment3ADO\obj\Debug\Assessment3ADO.csproj.AssemblyReference.cache
+C:\DotNet_Training\SQL\Assessments\Assessment3\Assessment3ADO\Assessment3ADO\obj\Debug\Assessment3ADO.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\SQL\Assessments\Assessment3\Assessment3ADO\Assessment3ADO\obj\Debug\Assessment3ADO.exe
+C:\DotNet_Training\SQL\Assessments\Assessment3\Assessment3ADO\Assessment3ADO\obj\Debug\Assessment3ADO.pdb
