@@ -39,7 +39,7 @@ CREATE TABLE T_CourseInfo (
    StartDate DATE
 );
  
-CREATE TRIGGER after_course_insert
+CREATE TRIGGER T_afterinsert
 ON CourseDetails
 AFTER INSERT
 AS
@@ -51,6 +51,6 @@ END;
  
  
 INSERT INTO CourseDetails (C_id, C_Name, Start_date, End_date, Fee)
-VALUES ('SQ005', 'SQL_TRAINING', '2023-01-01', '2023-02-01', 12000);
+VALUES ('ME001', 'mern', '2022-01-01', '2022-02-01', 17000);
  
 SELECT * FROM T_CourseInfo;
