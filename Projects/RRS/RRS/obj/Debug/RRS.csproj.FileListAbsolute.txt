@@ -1,0 +1,7 @@
+C:\DotNet_Training\Projects\RRS\RRS\bin\Debug\RRS.exe.config
+C:\DotNet_Training\Projects\RRS\RRS\bin\Debug\RRS.exe
+C:\DotNet_Training\Projects\RRS\RRS\bin\Debug\RRS.pdb
+C:\DotNet_Training\Projects\RRS\RRS\obj\Debug\RRS.csproj.AssemblyReference.cache
+C:\DotNet_Training\Projects\RRS\RRS\obj\Debug\RRS.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\Projects\RRS\RRS\obj\Debug\RRS.exe
+C:\DotNet_Training\Projects\RRS\RRS\obj\Debug\RRS.pdb

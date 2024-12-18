@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js">></script>
+
+    <script>
+        $(document).ready(function () {
+            $('hideMe').click(function () {
+                $('p').hide();
+            })
+        })
+
+        $(document).ready(function () {
+            $("showMe").click(function () {
+                $("p").show();
+            })
+        })
+
+
+
+        //JQuery for CSS manipulation
+        $(document).ready(function () {
+            var clicked = true;
+            $('button').click(function () {
+                if (clicked) {
+                    $(this).css('background-color', 'red');
+                    clicked = false;
+                } else {
+                    $(this).css('background-color', 'blue');
+                    clicked = true;
+                }
+            })
+        })
+    </script>
+
+    <style>
+        button {
+            background-color: blue;
+            height: 100px;
+            width: 100px;
+        }
+    </style>
+
+</head>
+<body>
+    <h1> ABCD </h1>
+    <p>Shakespeare</p>
+    <p>Mozart</p>
+    <p>Beethoven</p>
+    <button class=" hideMe ">Click to Hide</button>
+    <button class=" showMe ">Click to Show</button>
+
+
+
+    <div>
+        <img src="C:\Users\chiramyam\OneDrive - Infinite Computer Solutions (India) Limited\Pictures\Screenshots\Assessment3-Ques1.png" height="100" width="100" />
+        <p> Displaying image</p>
+    </div>
+</body>
+</html>

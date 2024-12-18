@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Assessment 7 Questions</title>
+</head>
+<body>
+
+    <h1>Calculator</h1>
+    <form>
+        1st Number : <input type="text" id="x" /><br>
+        2nd Number: <input type="text" id="y" /><br>
+        <input type="button" onClick="multiplication()" value="multiply"/>
+        <input type="button" onClick="division()" value="divide"/> 
+    </form>
+    <p>
+        The Result is : <br>
+        <span id="res"></span>
+    </p>
+
+    <h1>Checking for odd or even nos.</h1>
+    <div id="res"></div>
+
+    <h1>Button click event</h1>
+    <button id="entbtn">Click me</button>
+
+    <script>
+        //javascript ques 1
+        function multiplication()
+        {
+            a = document.getElementById("x").value;
+            b = document.getElementById("y").value;
+            document.getElementById("res").innerHTML = a * b;
+        }
+
+        function division()
+        {
+            a = document.getElementById("x").value;
+            b = document.getElementById("y").value;
+            document.getElementById("res").innerHTML = a / b;
+        }
+
+
+        // javascript ques 2
+        let res = '';
+        for (let i = 0; i <= 15; i++) {
+            if (i % 2 === 0) {
+                res += `${i} is even <br>`;
+            } else {
+                res += `${i} is odd <br>`;
+            }
+        }
+        document.getElementById('res').innerHTML = res;
+
+        // javascript ques 3
+        document.getElementById('entbtn').addEventListener('click', function () {
+            console.log('Button clicked');
+            alert('Button clicked');
+        });
+    </script>
+
+</body>
+</html>
