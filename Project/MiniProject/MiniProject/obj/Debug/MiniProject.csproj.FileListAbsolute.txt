@@ -1,0 +1,14 @@
+C:\QQ-main\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\QQ-main\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\QQ-main\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\QQ-main\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.AssemblyReference.cache
+C:\QQ-main\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\QQ-main\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\QQ-main\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
+C:\DotNet_Training\Project\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\DotNet_Training\Project\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\DotNet_Training\Project\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\DotNet_Training\Project\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.AssemblyReference.cache
+C:\DotNet_Training\Project\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\DotNet_Training\Project\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\DotNet_Training\Project\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
