@@ -64,7 +64,6 @@ VALUES
 
 
 
-
 CREATE PROCEDURE AddTrain
     @TrainName NVARCHAR(20),
     @Source NVARCHAR(20),
@@ -139,7 +138,7 @@ BEGIN
     DECLARE @Query NVARCHAR(MAX);
 
     SET @Query = 'SELECT @Count = COUNT(*) FROM ' + @Table + ' WHERE Username = @Username AND Password = @Password';
-    EXEC sp_executesql @Query, N'@Username NVARCHAR(50), @Password NVARCHAR(50), @Count INT OUTPUT', @Username, @Password, @Count OUTPUT;
+    EXEC sp_executesql @Query, N'@Username NVARCHAR(10), @Password NVARCHAR(20), @Count INT OUTPUT', @Username, @Password, @Count OUTPUT;
 
     SELECT @Count AS Result;
 END;
@@ -192,8 +191,6 @@ BEGIN
 END;
 
 
-
-
 EXEC AddTrain 'T4', 'Bombay', 'Pune', 220, '2024-12-19';
 
 
@@ -211,3 +208,4 @@ EXEC AuthenticateUser @Username = 'admin1', @Password = 'adminpass', @Table = 'A
 EXEC DeleteTrain @TrainId = 1;
 
 EXEC UpdateTrain @TrainId = 1, @TrainName = 'T9' , @Source = 'Kolkata', @Destination = 'Indore', @TotalSeats = 234 , @DateOfJourney = '2025-12-29';
+

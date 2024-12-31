@@ -1,0 +1,54 @@
+﻿@using MVC_Assignment_1.Models
+@model IEnumerable<MVC_Assignment_1.Models.Contact>
+
+@{
+    ViewBag.Title = "Contacts";
+}
+
+<h2>Contacts</h2>
+
+<table class="table">
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Email</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var contact in Model)
+    {
+        <tr>
+            <td>@contact.FirstName</td>
+            <td>@contact.LastName</td>
+            <td>@contact.Email</td>
+            <td>
+                @using (Html.BeginForm("Delete", "Contacts", FormMethod.Post))
+                {
+                    @Html.Hidden("id", contact.Id)
+                    <input type="submit" value="Delete" class="btn btn-danger" />
+                }
+            </td>
+        </tr>
+    }
+</table>
+
+<h3>Add New Contact</h3>
+@using (Html.BeginForm("Create", "Contacts", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.FirstName)
+        @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.FirstName)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.LastName)
+        @Html.TextBoxFor(m => m.LastName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.LastName)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Email)
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Email)
+    </div>
+    <input type="submit" value="Add Contact" class="btn btn-primary" />
+}
