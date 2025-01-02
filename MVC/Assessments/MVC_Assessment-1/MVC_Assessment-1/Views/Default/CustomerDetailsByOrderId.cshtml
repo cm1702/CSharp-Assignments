@@ -1,0 +1,22 @@
+﻿@model dynamic 
+
+<h2>Customer Details for Order ID: 10248</h2>
+
+@if (Model != null)
+{
+    <h3>Customer Info</h3>
+    <p>Customer ID: @Model.Customer.CustomerID</p>
+    <p>Company Name: @Model.Customer.CompanyName</p>
+    <p>Contact Name: @Model.Customer.ContactName</p>
+    <p>Country: @Model.Customer.Country</p>
+
+    <h3>Order Info</h3>
+    <p>Order ID: @Model.Order.OrderID</p>
+    <p>Order Date: @Model.Order.OrderDate</p>
+    <p>Shipped Date: @Model.Order.ShippedDate</p>
+}
+else
+{
+    <p>No customer found for this order ID.</p>
+}
+

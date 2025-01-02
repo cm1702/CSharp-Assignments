@@ -13,3 +13,5 @@ INSERT INTO Contacts (FirstName, LastName, Email) VALUES
 ('C', 'D', 'c.d@example.com'),
 ('E', 'F', 'e.f@example.com');
 
+SELECT * FROM Contacts
+
